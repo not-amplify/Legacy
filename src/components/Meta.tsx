@@ -30,11 +30,11 @@ export default function Meta() {
             {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "Nebula",
-            "url": "https://nebulaproxy.io",
+            "name": "Legacy",
+            "url": "https://legacy.notamplify.online",
             "sameAs": [
-                "https://github.com/NebulaServices",
-                "https://nebulaproxy.io"
+                "https://github.com/not-amplify/Legacy",
+                "https://legacy.notamplify.online"
             ]
         }
             `}
